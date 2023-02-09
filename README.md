@@ -1,2 +1,3 @@
 # 2023-TraditionalHatchbot-Example
-For learning purposes
+
+A Java, command based robot from the VS Code examples for FRC.
