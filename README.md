@@ -1,3 +1,5 @@
-# 2023-TraditionalHatchbot-Example
+# Traditional Hatchbot Example
 
-A Java, command based robot from the VS Code examples for FRC.
+FRC Command-based robot implementing a pneumatics from the VS Code examples.
+
+Updated for 2023
